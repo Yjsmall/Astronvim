@@ -9,5 +9,6 @@ return {
   { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
+  { import = "astrocommunity.utility.noice-nvim" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
