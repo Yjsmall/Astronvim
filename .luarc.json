@@ -2,5 +2,8 @@
     "diagnostics.globals": [
         "cmd",
         "loacal"
+    ],
+    "diagnostics.disable": [
+        "missing-fields"
     ]
 }
