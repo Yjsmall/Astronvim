@@ -33,6 +33,7 @@ return {
     -- quick save
     ["<C-s>"] = { ":w!<cr>", desc = "Save File" }, -- change description but the same command
     [";"] = { ":", desc = "Enter command model" },
+    ["<C-q>"] = { "<C-v>", desc = "Visual block model" },
   },
   t = {
     -- setting a mapping to false will disable it
