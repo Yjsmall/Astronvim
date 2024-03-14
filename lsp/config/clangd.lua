@@ -5,6 +5,7 @@ return {
     "clangd",
     "--clang-tidy",
     "--background-index",
+    "--header-insertion=iwyu",
   },
   capabilities = {
     offsetEncoding = "utf-16",
